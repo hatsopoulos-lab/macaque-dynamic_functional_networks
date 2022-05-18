@@ -1,0 +1,9 @@
+*/processed_data/**
+*/raw_data/**
+*/figures/**
+*/*.ipynb_checkpoints/**
+nohup.out
+*.code-workspace
+*_DataWrangling*
+.vscode/**
+*.insyncdl
