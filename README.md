@@ -16,10 +16,14 @@ To load the functions into a new notebook, run this at the start of your noteboo
 
 or use `center-out/ipynb-template.ipynb` 
 
-## Data Structure
-Data can be made available upon request to Marina Sundiang (sundiang@uchicago.edu).
+## Data and data structure
+We thank Jacob Reimer, Zach Haga, and Dawn Paulsen for collecting the data used in this work.
 
-load data: `data = loadPickle(filepath)`
+The dataset is publicly available:
+
+Sundiang, Marina; Hatsopoulos, Nicholas; MacLean, Jason (2022), Dynamic structure of motor cortical neuron co-activity carries behaviorally relevant information, Dryad, Dataset, [https://doi.org/10.5061/dryad.9p8cz8wm6](https://doi.org/10.5061/dryad.9p8cz8wm6)
+
+to load data: `data = loadPickle(filepath)`
 
 find data structure and example functions (including how to construct Functional Networks) under ` DynamicStructure-2022/center-out/run_data_demo.ipynb `
 
